@@ -1,0 +1,21 @@
+<snippet>
+	<content><![CDATA[
+/**
+<meta content="text/html" charset="utf-8">
+
+@author Óscar Díaz Olivares
+@version 1.0
+*/
+
+public class ClassName {
+	public static void main(String[] args) {
+		
+	}
+}
+]]></content>
+	<tabTrigger>java</tabTrigger>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<!-- <tabTrigger>hello</tabTrigger> -->
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
